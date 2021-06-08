@@ -1,0 +1,2 @@
+rootProject.name='DomofonMasterApp'
+include ':app'

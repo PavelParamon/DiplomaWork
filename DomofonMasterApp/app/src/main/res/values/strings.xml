@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DomofonMaster</string>
+    <string name="GetCity">Список городов</string>
+    <string name="GetIntercom">Список домофонов</string>
+    <string name="ListCity">Список городов :</string>
+    <string name="ListIntercom">Список домофонов :</string>
+    <string name="ListStreets">Список улиц :</string>
+    <string name="ListHouse">Список домов :</string>
+    <string name="ListPorch">Список подъездов :</string>
+    <string name="ListKeys">Список ключей: </string>
+    <string name="AddKey">Добавить ключ</string>
+    <string name="WriteKey">Записать ключ</string>
+    <string name="FavouritesKey">Избранное</string>
+    <string name="AddFav">Добавить в избранные</string>
+    <string name="Clear">Очистить</string>
+    <string name="TouchKey">Нажмите кнопку и прислоните ключ к считывателю</string>
+    <string name="readKey">Считать ключ</string>
+    <string name="TouchKeyForWrite">Переключите режим для записи и прислоните ключ</string>
+    <string name="writeKey">Записать ключ</string>
+</resources>
